@@ -1,0 +1,31 @@
+/* Delmar Kirkland*/
+
+body
+{
+    /* Changing Background Color and Text Boldness*/
+    background-image: radial-gradient(rgba(0, 0, 255, 0.623),rgb(255, 253, 253),rgb(255, 0, 0));
+    font-weight: bold;
+
+}
+
+h1
+{
+    /* Centering The Text and Adding Color*/
+    text-align: center;
+    color: rgb(184, 0, 37);
+    
+}
+
+.buttonDK
+{
+    /* Making Button Slightly Bigger*/
+    height: 30px;
+    width: 75px;
+}
+
+.ref
+{
+    color: black;
+    font-weight: bolder;
+    
+}
